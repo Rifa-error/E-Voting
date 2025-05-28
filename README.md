@@ -31,6 +31,6 @@ e_voting/
 3. Ikuti menu navigasi untuk menggunakan aplikasi.
 
 ## Dibuat oleh:
-- [Nama Mahasiswa]
-- [NIM]
-- [Kelas]
+- Rifa Adritya Pamungkas
+- 20240040176
+- TI24H
